@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "Plumbum: shell combinators library"
+name = "plumbum"
+optional = false
+python-versions = "*"
+version = "1.6.8"
+
+[metadata]
+content-hash = "da56c2439515eaf16a62d76a9e588fbf5e0103ccc7a391b5c564db4447fa8e98"
+python-versions = "^3.6"
+
+[metadata.files]
+plumbum = [
+    {file = "plumbum-1.6.8-py2.py3-none-any.whl", hash = "sha256:600f99e1736f314b52d823aa5d3b73db9a7a6d5b5dc22303410c1a7d6f3e569c"},
+    {file = "plumbum-1.6.8.tar.gz", hash = "sha256:8571f2f9657e00dc22549d9e92db3fdec5674bf509fe60c5c9b4081fd8f6ab92"},
+]
